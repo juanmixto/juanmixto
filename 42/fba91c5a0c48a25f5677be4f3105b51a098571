@@ -1,0 +1,19 @@
+README.md
+  s_d9882762677b21::t_7f77e593b652a8 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "42fba91c5a0c48a25f5677be4f3105b51a098571",
+  "prompts": {},
+  "sessions": {
+    "s_d9882762677b21": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d59ccdc6-744a-48bc-9628-bc54119a484e",
+        "model": "unknown"
+      },
+      "human_author": "Juan Ortega <juan.ortega.saceda@gmail.com>"
+    }
+  }
+}
